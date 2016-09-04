@@ -1,6 +1,6 @@
 ---
-title: Golden
-subtitle: Website Design
+title: Self drive solutions
+subtitle: Self drive car/bike rental operations management solution
 layout: default
 modal-id: 3
 date: 2014-07-16
@@ -9,7 +9,7 @@ thumbnail: golden-thumbnail.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+category: Self drive operations
+description: Solution for the emerging and rapidly growing wise transportation segment. Transportation in India is currently predominated by the chauffer driven model of car rentals and it has witnessed massive growth in the past few years.
 
 ---
