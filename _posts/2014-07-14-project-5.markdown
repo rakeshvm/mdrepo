@@ -4,12 +4,11 @@ subtitle: Solutions for distributed logistics
 layout: default
 modal-id: 5
 date: 2014-07-14
-img: startup-framework.png
-thumbnail: startup-framework-thumbnail.png
+img: construction.jpg
+thumbnail: e-commerce-min.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Logistics operations
-description: With e-commerce/m-commerce there has been rapid growth in distribution logisticss. Our solutions come with features like Temperature monitoring, proprietary ERP integrations, fleet management, Route optimization, vehicle tracking and consignment tracking.
-
+description: The last decade has witnessed an unprecedented surge in e-commerce and i4u has been leading the way in providing intelligent eco-systems to manage the distribution network. Be it Long Haul or Last Mile delivery, i4u’s ecosystem offers value to each stake holder in the chain of events. In the scenario overshadowed by pressure on margins, our solutions assist the bottom line by optimizing the resources at each level in the value chain.i4u provides services to the e-commerce companies to make this process well executed and also to ensure hassle free deliveries for the sellers and operators.  Along with these i4u has also designed a unique solution in the feild of construction i,e **Construction Logistics Solution**.The modules for Construction Logistics Solutions include, Cement Mining Logistics, Retail Cement Distribution, Bulker Transportation, Ready Mix Concrete (RMC) Transportation.
 ---

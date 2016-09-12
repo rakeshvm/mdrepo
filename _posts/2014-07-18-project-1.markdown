@@ -1,15 +1,15 @@
 ---
-title: Mine
+title: Mining Solutions
 subtitle: Tackling corruption with tech
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: dreams.png
-thumbnail: dreams-thumbnail.png
+img: iron-min.jpg
+thumbnail: natural-min.jpg
 alt: image-alt
 project-date: August 2016
 client: Anonymous
 category: Mining based solution
-description: Corruption, fraud and illegal operations are persistent problems for the mining industry in India.Taylor heyman explores the sophisticated, sensor based tracking systems being used to address the project
+description: To the untrained eye, the  mining and transportation industry is plagued with problems. But i4u saw an opportunity in these challenges. We used technology cleverly to transform the industry. i4u’s solutions include **Natural Resources Mining solution** designed to restructure and improve overall operations in the business. We ensure ecologically safe mining activity along with legal transportation. By making the system intelligent, we have helped veer the industry towards transparency and profitability. Turning it into the thriving industry it is meant to be. Harnessing the power of advanced technologies – Cloud, IoT, mobile and GPS/GPRS technologies, i4u proposed an end-to-end **iron ore monitoring solution** from the source to the end-user or consumer location. The solution enables bifurcation of mineral transporting vehicles from other goods carriages, integrates movement monitoring with transit permit generation and creates a value proposition for all stakeholders across the ecosystem.
 
 ---

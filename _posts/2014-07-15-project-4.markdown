@@ -4,12 +4,12 @@ subtitle: Solutions for Express cargo services
 layout: default
 modal-id: 4
 date: 2014-07-15
-img: treehouse.png
-thumbnail: treehouse-thumbnail.png
+img: outbound-min.jpg
+thumbnail: express-min.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Express Cargo operations
-description: Express cargo is a premium segment of the logistics industry. Includes features like ontime secure consignment delivery, improved efficiency  of filed operations, optimization of route and asset utilization, improved vehicle and route performance and improved customer satisfaction.
+description: Express cargo is a premium segment of the logistics industry. Includes features like ontime secure consignment delivery, improved efficiency  of filed operations, optimization of route and asset utilization, improved vehicle and route performance and improved customer satisfaction.i4u's Express Cargo Solutions delivers a comprehensive solution to the Express logistics industry which address key challenges faced by Express Cargo companies and further enhances the efficiency of operations resulting in a higher profit margin.
 
 ---

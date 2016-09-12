@@ -4,12 +4,12 @@ subtitle: Sand eco system solutions by i4u
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: escape.png
-thumbnail: escape-thumbnail.png
+img: sand-min.jpg
+thumbnail: sand2.jpeg
 alt: image-alt
 project-date: August 2016
 client: Anonymous
 category: Sand transport operations
-description: How district level administration of sand ecosystem can serve the community better with sustainable mining and transportation through operational excellence, transparenct, accountability and efficiency.
+description: How district level administration of sand ecosystem can serve the community better with sustainable mining and transportation through operational excellence, transparenct, accountability and efficiency. i4u’s innovative use of Internet of things (IoT) in **Sand Mining** allows Government officials to monitor, administer & regulate end–to-end sand mining and transport operations. Besides, consumers, transporters, contractors & public get access to details of sand availability, procurement, transportation & delivery details.
 
 ---

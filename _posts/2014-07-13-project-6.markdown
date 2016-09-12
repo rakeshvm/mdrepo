@@ -4,11 +4,11 @@ subtitle: Automotive logistics solutions
 layout: default
 modal-id: 6
 date: 2014-07-15
-img: roundicons.png
-thumbnail: roundicons-thumbnail.png
+img: School-min.jpg
+thumbnail: Taxi-min.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
-category: Logistics operations
-description: It is a unique integrated IoT business model for Automotive logistics that is cost effective, increases visibility, efficiency and profitability.We connect stake holders with Supply chain in a shared view environment enabling real time communication and providing access to decision making data.
+category: Logistics operation
+description: It is a unique integrated IoT business model  which helps with safer and fast mobility services. i4u's Wise move has effective modules such as **Taxi Operation Management Solutions** to fullfil demand for taxi servie and its smooth operation and maintenance ,**Passenger Bus Transportation Solutions** to provide effective and sustainable passenger bus transportation services and monitoring,**Employee Transportation Management Solutions** to provide real time location tracking, information about driver and passengers, vehicle scheduling, accurate reports on mileage analysis, costs, ROI, and other clever additions.,**Child Safety Assurance System (CAS) Solutions** to monitor, streamline, and safeguard school transport services. The solution is ready to deploy with features like real-time location tracking, driver information, emergency reporting, pre-pickup and pre-drop SMS alerts to parents, RFID attendance management for school, and many other clever inclusions that make the safety system more intelligent.
 ---

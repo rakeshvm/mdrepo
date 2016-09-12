@@ -4,12 +4,12 @@ subtitle: Self drive car/bike rental operations management solution
 layout: default
 modal-id: 3
 date: 2014-07-16
-img: golden.png
-thumbnail: golden-thumbnail.png
+img: Car-min.jpg
+thumbnail: self-min.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Self drive operations
-description: Solution for the emerging and rapidly growing wise transportation segment. Transportation in India is currently predominated by the chauffer driven model of car rentals and it has witnessed massive growth in the past few years.
+description: Solution for the emerging and rapidly growing wise transportation segment. Transportation in India is currently predominated by the chauffer driven model of car rentals and it has witnessed massive growth in the past few years.The self-drive vehicle renting segment is undergoing a boom period with consistently increasing demand from customers. i4u has developed **AVTO** as a solution that enables self-drive vehicle rental businesses to view and manage their business in real-time through a host of solution offerings. This intelligent use of technology for real-time monitoring and analytics reports has helped deal with issues like over speeding, cross- border alerts, car immobilization, first-of-its-kind keyless entry, trip distance reconciliation and refueling monitoring, amongst other things. i4u’s AVTO solution empowers businesses to garner greater revenues from efficient fleet utilization by being smarter.
 
 ---
